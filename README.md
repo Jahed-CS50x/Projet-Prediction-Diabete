@@ -8,8 +8,7 @@ Le diabète est une maladie chronique majeure. L'objectif de ce projet est de d�
 ## 🛠️ Méthodologie
 1.  **Exploration des données (EDA) :** Analyse des corrélations et nettoyage (traitement des valeurs manquantes).
 2.  **Modélisation :** Comparaison de 3 approches :
-    * Régression Logistique (Baseline : 78%)
-    * Arbre de Décision (Overfitting détecté)
+    * Régression Logistique (Baseline : 77%)
     * **Random Forest (Modèle retenu : ~81%)**
 3.  **Application :** Création d'un simulateur interactif pour tester de nouveaux profils.
 
@@ -27,4 +26,4 @@ Le modèle final atteint une précision de **81%** sur le jeu de test.
 3.  Utiliser le simulateur à la fin du notebook pour tester vos propres valeurs.
 
 ---
-*Projet réalisé par [Ton Prénom] - [Date]*
+*Projet réalisé par Adriana VAVROVA, Grégory Haas, Supaporn Niyomchon, Jahed Bouazzaoui - [17/12/2025]*
